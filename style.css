@@ -81,3 +81,7 @@
 #contact {
     padding-bottom: 4rem;
 }
+
+.navbar-toggler-icon{
+    border: goldenrod solid 2px;
+}
