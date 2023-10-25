@@ -8,5 +8,5 @@ HTML, CSS, JavaScript and Bootstrap Portfolio Website
 * [Font Awesome 5](https://fontawesome.com/)
 * [google map](https://www.embed-map.com/)
 
-;; This is the [live demo](https://kessi-ux.github.io/Portfolio) of the project. 
+This is the [live demo](https://kessi-ux.github.io/Portfolio) of the project. 
 
